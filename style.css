@@ -15,9 +15,19 @@ body {
 }
 
 .first{
+  max-width: 250px;
+}
+
+.photo{
+  width: 100%;
+}
+
+.introduction{
+  color:grey;
   
 }
 
 .content{
+  max-width: 1000px;
   
 }
