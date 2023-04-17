@@ -3,6 +3,9 @@ body {
   flex-direction: row;
   justify-content: center;
   flex-wrap: wrap;
+  font-family: 'Comfortaa', cursive;
+  font-size: 30px;
+  color: black;
 }
 
 .main{
