@@ -35,6 +35,7 @@ body {
 }
 
 .content{
+  padding: 0.3rem;
   margin: 1rem;
   width: 55%;
   max-width: 1000px;
