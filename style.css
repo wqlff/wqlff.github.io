@@ -20,8 +20,11 @@ body {
   max-width: 250px;
 }
 
-.photo{
+.div-photo{
   margin: 0.3rem;
+}
+
+.photo{
   width: 100%;
 }
 
