@@ -21,10 +21,12 @@ body {
 }
 
 .photo{
+  margin: 0.3rem;
   width: 100%;
 }
 
 .introduction{
+  margin: 0.3rem;
   color:grey;
   
 }
